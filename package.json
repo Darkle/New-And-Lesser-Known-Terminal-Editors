@@ -1,0 +1,22 @@
+{
+  "name": "new-and-lesser-known-terminal-editors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bs": "browser-sync start --server dist --files dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkle/New-And-Lesser-Known-Terminal-Editors.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darkle/New-And-Lesser-Known-Terminal-Editors/issues"
+  },
+  "homepage": "https://github.com/Darkle/New-And-Lesser-Known-Terminal-Editors#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.7"
+  }
+}
