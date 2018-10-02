@@ -1,9 +1,38 @@
 # New & Lesser Known Terminal Editors
 
-#### [micro](https://micro-editor.github.io/)
-
-micro aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals. It comes as one single, batteries-included, static binary with no dependencies, and you can download and use it right now.
-
-micro also aims to be somewhat of a successor to the nano editor by being easy to install and use in a pinch, but micro also aims to be enjoyable to use full time.
-
-Platforms: Linux, BSD, Windows, MacOS
+* https://github.com/zyedidia/micro
+* https://github.com/slap-editor/slap
+* https://en.wikipedia.org/wiki/Ed_(text_editor)
+* https://en.wikipedia.org/wiki/Troff
+* https://github.com/yi-editor/yi
+* https://github.com/the8thbit/e
+* https://github.com/mawww/kakoune
+* http://kakoune.org/
+* https://github.com/rgburke/wed
+* https://github.com/kritzcreek/pscid
+* http://habilis.net/termlet/editors/
+* https://github.com/codenrun/lexi
+* https://github.com/martanne/vis
+* https://github.com/google/xi-editor
+* http://zap.tartarus.org/
+* https://github.com/jangler/fervor
+* http://www.briefeditor.com/
+* http://www.jedsoft.org/jed/
+* https://github.com/zachwhaley/eli
+* https://github.com/google/xi-editor
+* http://kakoune.org/
+* https://github.com/gchp/iota
+* https://github.com/richrd/suplemon
+* https://en.wikipedia.org/wiki/Brief_(text_editor)
+* http://sam.cat-v.org/
+* https://github.com/hellerve/e
+* https://github.com/antirez/kilo
+* https://github.com/google/xi-editor
+* https://github.com/lpan/viw
+* https://github.com/arximboldi/ewig
+* https://github.com/richrd/suplemon/
+* https://github.com/roecrew/pixt
+* https://github.com/google/xi-editor
+* https://virtuallyfun.com/2018/03/11/microsoft-editor/
+* http://diakonos.pist0s.ca/
+* http://ne.di.unimi.it/
