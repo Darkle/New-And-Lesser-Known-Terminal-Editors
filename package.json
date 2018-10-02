@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "bs": "browser-sync start --server dist --files dist"
+    "start": "browser-sync start --server docs --files docs"
   },
   "repository": {
     "type": "git",
