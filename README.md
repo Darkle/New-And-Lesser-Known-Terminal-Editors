@@ -25,6 +25,7 @@
 * **Helix** - https://github.com/helix-editor/helix
 * **Pepper** - https://github.com/vamolessa/pepper
 * **Turbo** - https://github.com/magiblot/turbo
+* **Ledit** - https://github.com/liz3/ledit
 
 ### Older Lesser Known Terminal Editors
 
